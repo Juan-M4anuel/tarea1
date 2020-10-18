@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Curso3T1</string>
+    <string name="Titulo1">Añadir un contacto</string>
+    <string name="Nombre">Nombre completo:</string>
+    <string name="Fecha">Fecha de nacimiento:</string>
+    <string name="Telefono">Telefono:</string>
+    <string name="Email">Email:</string>
+    <string name="desc">Descripcion contacto:</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="boton2">Editar Datos</string>
+    <string name="Confirmar">Confirmar Datos</string>
+
+
+
+</resources>
